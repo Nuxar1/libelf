@@ -1,9 +1,10 @@
-Makefile
-config.cache
-config.h
-config.log
-config.status
-stamp-h
-libelf.pc
+# Directories
+.vs/
+bin/
+bin-int/
 
-/VC/.vs/libelf
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
