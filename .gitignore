@@ -6,3 +6,4 @@ config.status
 stamp-h
 libelf.pc
 
+/VC/.vs/libelf
